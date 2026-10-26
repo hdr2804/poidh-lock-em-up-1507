@@ -1,6 +1,6 @@
 # CLAIM PACK — POIDH #1507
 
-Status: video SELESAI & terverifikasi 26 Okt 2026 (1080×1920, 66,7 dtk, −14,5 LUFS); repo publik LIVE: https://github.com/hdr2804/poidh-lock-em-up-1507. Rute publik DIPUTUSKAN Usam 26 Okt: **Farcaster aja** (bukan X) — Usam post cast (copy di bawah), kirim link cast ke Muse, deskripsi klaim diupdate nambah link cast, baru submit.
+Status: video V2 (re-edit penuh: shot grammar bervariasi + sound design) SELESAI & terverifikasi 26 Okt 2026 (1080×1920, 67,9 dtk, −14,4 LUFS, 28,3 MB); repo publik LIVE: https://github.com/hdr2804/poidh-lock-em-up-1507. Rute publik DIPUTUSKAN Usam 26 Okt: **Farcaster aja** (bukan X) — Usam post cast (copy di bawah), kirim link cast ke Muse, deskripsi klaim diupdate nambah link cast, baru submit.
 
 ## CAST FARCASTER (paste persis, lampirkan file video)
 
@@ -20,7 +20,7 @@ Lock ’Em Up: Grandpa Balajiss Deploys the Cops — Full-Arc Remix, Settled on 
 
 ## DESCRIPTION (paste persis — link repo di dalam blok ini)
 
-Full-arc remix (vertical, 67s): Balajiss as Grandpa keeps the original pond/truck confrontation — the Trey Taylor permission loop, the state-property fight, and the “I’m his daddy” reveal — then twists it: he doesn’t call the cops, he deploys them. Trespass claim filed and confirmed on Base. “Lock ’em up — settled on Base.” AI-assisted stills + ffmpeg motion, fully dubbed, captions in-scene. Video + full process: https://github.com/hdr2804/poidh-lock-em-up-1507
+Full-arc remix (vertical, 68s): Balajiss as Grandpa keeps the original pond/truck confrontation — the Trey Taylor permission loop, the state-property fight, and the “I’m his daddy” reveal — then twists it: he doesn’t call the cops, he deploys them. Trespass claim filed and confirmed on Base. “Lock ’em up — settled on Base.” AI-assisted stills + ffmpeg motion, fully dubbed, captions in-scene. Video + full process: https://github.com/hdr2804/poidh-lock-em-up-1507
 
 ## Lampiran klaim
 

@@ -20,9 +20,9 @@ Unlike the short example remix, this version does not cut away before the reveal
 
 ## Production notes
 
-- Visuals: AI-generated stills (Balajiss aged into the grandpa role, using a public photo as the identity reference), animated with deterministic ffmpeg drift/cuts. No AI video generation was used.
-- Audio: every line is a synthetic voice performance (Fisherman / Grandpa / Trey on a phone EQ), plus generated ring and confirmation chimes. Mixed and loudness-normalised to −14 LUFS.
-- Captions: speaker-labelled and burned in as part of the scene.
+- Visuals: AI-generated stills (Balajiss aged into the grandpa role, using a public photo as the identity reference), cut with a deliberate shot grammar in ffmpeg — fast-cut intro montage, push-ins, punch zooms, a pull-back, handheld jitter on the rant, an extreme close-up, a fisherman POV, detail inserts (hand on the door, keys, phone), a held frame on the “I’m his daddy” reveal, an animated jail-bars slam and a film grade with grain. No AI video generation was used.
+- Audio: every line is a synthetic voice performance (Fisherman / Grandpa / Trey on a phone EQ), plus a full sound-design layer: pond ambience, a tension drone that rises under the argument, a phone vibrate + ring, whooshes, a confirmation chime and a jail clang. Mixed and loudness-normalised to −14 LUFS.
+- Captions: speaker-labelled, phrase-synced (the second half of each line lights up in the speaker’s colour as it is spoken), and burned in as part of the scene.
 - Reference handling: the original “Lock ’Em Up” video was studied for its setup, pacing and beats. No source footage or source audio is embedded in this file — YouTube’s download path was bot-gated in the production environment, so the piece is a full re-enactment remix of the reference rather than a re-edit of its file.
 
 Full shot/timing breakdown: [`PROCESS.md`](PROCESS.md).

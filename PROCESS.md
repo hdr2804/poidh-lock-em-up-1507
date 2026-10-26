@@ -55,5 +55,16 @@ Lines 1–13 follow the original’s beats (permission claim, state-property arg
 ## 6. Honest limitations
 
 - No source footage or source audio is embedded: YouTube’s download path was bot-gated in the production environment, so this is a re-enacted remix of the reference’s scene and script beats, not a re-edit of the original file.
-- Motion is ffmpeg drift over stills, not filmed or AI-generated video.
+- Motion is ffmpeg camera work over stills, not filmed or AI-generated video.
 - The aged Balajiss likeness is an AI interpretation from a public photo, guided by the brief’s casting (“Balajiss as Grandpa”).
+
+## 7. V2 re-edit (the shipped cut)
+
+The first cut used one uniform drift for every shot and read as a slideshow. The shipped version is a full visual re-edit of the same script and voice performances:
+
+- **Shot grammar varies per beat:** a 3-cut intro montage (pond profile → dashboard/keys → face + title banner), slow push-ins for the setup, the fisherman’s lines carried on his POV of the rod and grass, handheld jitter as the rant starts, a hard cut to an extreme close-up of the eyes for its second half, a pull-back on the permission repeat, a punch zoom on “smart contract”, detail inserts (the old hand gripping the door, the phone in ECU for Trey’s line), and a held, slowly-tightening frame under big impact text for “I’M HIS DADDY.” and “I DEPLOY THEM.”
+- **New inserts** were cropped from the existing masters (eyes ECU, door hand, dashboard/keys, phone ECU) — no new AI images were generated for the re-edit.
+- **Captions** are split per phrase: the first half of a line shows in white, the second half flips to the speaker’s colour at the spoken midpoint.
+- **Sound design** (all synthesised): pond ambience with sparse birds, a sub drone whose envelope rises through the argument and dips for the phone call, a vibrate buzz into the ringtone, whooshes on the ECU cut and the popup, a UI click + chime on the confirmation, and a metallic clang as the jail bars animate down over the final shot.
+- **Grade:** contrast/saturation lift, vignette and light temporal grain on every shot.
+- Final: 1080×1920, 30 fps, 67.9 s, H.264 + AAC, −14.4 LUFS integrated. QC as in section 5, plus per-stream duration checks on every segment (one freeze-frame implementation produced a video/audio mismatch and was rebuilt as a capped-zoom hold).
